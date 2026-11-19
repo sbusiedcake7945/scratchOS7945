@@ -1,0 +1,74 @@
+I reccomend setting your browsers font size to 14px
+
+run "beta-on" for newest beta features
+
+
+if you want to create your own: https://scratch.mit.edu/projects/1353094571/
+changelogs
+vvvvvvvvvv
+
+please know that its not tottaly terminal and terminal wasnt the first thing added changelogs are written after version 1.5.0 and changelogs of the versions before 1.5.0 wont be added because they are out dated
+# changelog for v1.5.0-1(over)
+
+- added terminal
+- added virtual file system
+- added tmpfs
+- added echo command
+- added exit command
+
+# changelog for v1.6.0-1(beta)
+
+- added mkdir command
+- added rm command
+- added touch command
+- added see command
+- added VFS metadata
+- improvement for tmpfs
+- added binary generation
+- bugfixes
+- added nano command for text editing
+- tmpfs is removed
+- don't try to remove files/folders not created by you system may crash or some apps doesn't work especially don't remove "/" it will cause kernel panic
+- bootloader is 8 seconds long now
+
+# changelog for v1.6.0-1(beta) part 2
+
+- improvements for terminal
+- changed some parts of settings
+- added setup utility
+- added login screen
+- bug fixes
+- more bug fixes
+- added sur command for some command permission
+- added fastfetch
+- some more bug fixes
+- some more bug fixes
+- added useradd and uid commands
+- more bug fixes again
+- added userrm command
+- a few more bug fixes
+- big bug fixes
+- security improvements
+- more bug fixes
+- boot time is 4 seconds now
+- big bug fixes
+- taskbar changed
+- added more customization to wallpapers
+- bug fixes
+- added flags to uname command
+- new shutdown screen
+
+# changelog for v2.0.0-1(release)
+
+- added programming language(beta)
+- added draggable windows
+- added sound drivers
+- taskbar made changeable between old and new design from settings
+- added virtual disk
+- added virtual RAM
+- now menu changes with the taskbar
+- pen logo has been changed
+- added shell script(beta)
+- bug fixes and optimizations
+- added du and free commands
+- bug fixes
